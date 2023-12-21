@@ -1,7 +1,5 @@
 # React Movie Catalog
 
-![React Movie Catalog](link_para_uma_imagem.png)
-
 Este projeto é um Catálogo de Filmes desenvolvido em React como parte de um estudo e para compor meu portfólio. Utiliza a API do The Movie Database (TMDB) para fornecer informações detalhadas sobre uma ampla variedade de filmes.
 
 ## Funcionalidades
